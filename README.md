@@ -4,3 +4,4 @@ A deep learning model that receives a clip from a song (of minimum length), and 
 
 # references
 https://github.com/sawan16/Genre-Classification-using-Deep-learning/blob/main/genre_classification.ipynb
+https://github.com/ruohoruotsi/LSTM-Music-Genre-Classification
